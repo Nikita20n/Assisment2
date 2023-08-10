@@ -89,6 +89,7 @@ int main() {
     printf("Idli:%d - $%.2f\n", idliQty, idliPrice * idliQty);
     printf("----------------------\n");
     printf("Total bill is: $%.2f\n", totalCost);
+    printf("thank you\n");
 
     return 0;
 }
